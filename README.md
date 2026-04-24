@@ -555,14 +555,24 @@ Applied via **CSS variables on `:root`** — all components update instantly.
 | Page | Screenshot |
 |------|-----------|
 | Home — Hero + Live Stats | ![Home](images/home.png) |
-![Home](Screenshot 2026-04-24 132155.png)
-| Explore — 3-Column Layout | ![Explore](screenshots/explore.png) |
-| Write — ISBN Fetch + Preview | ![Write](screenshots/write.png) |
-| Review Detail | ![Detail](screenshots/review-detail.png) |
-| My Reading Legacy | ![Dashboard](screenshots/my-dashboard.png) |
-| Admin Dashboard | ![Admin](screenshots/admin-overview.png) |
+| Home — Hero + Live Stats | ![Home](images/f.png) |
+| Home — Hero + Live Stats | ![Home](images/y.png) |
+| Home — Hero + Live Stats | ![Home](images/homepage.png) |
+| Home — Hero + Live Stats | ![Home](images/aboutpage.png) |
+| Home — Hero + Live Stats | ![Home](images/about.png) |
+| Explore — 3-Column Layout | ![Explore](images/explorepage.png) |
+| Explore — 3-Column Layout | ![Explore](images/explore.png) |
+| Explore — 3-Column Layout | ![Explore](images/explorepage.png) |
+| Write — ISBN Fetch + Preview | ![Write](images/write.png) |
+| Write — ISBN Fetch + Preview | ![Write](images/writepage.png) |
+| Contact Detail | ![Detail](images/contactpage.png) |
+| Contact Detail | ![Detail](images/contact.png) |
+| My Reading Legacy | ![Dashboard](images/createac.png) |
+| My Reading Legacy | ![Dashboard](images/userdashboard.png) |
+| My Reading Legacy | ![Dashboard](images/writereview.png) |
+| Admin Dashboard | ![Admin](images/admin.png) |
 | Moderation + Reject Modal | ![Moderation](screenshots/admin-moderation.png) |
-| Theme Switcher | ![Theme](screenshots/theme-switcher.png) |
+| Theme Switcher | ![Theme](screenshots/t.png) |
 
 ---
 
