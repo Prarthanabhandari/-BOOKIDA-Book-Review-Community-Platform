@@ -572,7 +572,7 @@ Applied via **CSS variables on `:root`** — all components update instantly.
 | My Reading Legacy | ![Dashboard](images/writereview.png) |
 | Admin Dashboard | ![Admin](images/admin.png) |
 | Moderation + Reject Modal | ![Moderation](screenshots/admin-moderation.png) |
-| Theme Switcher | ![Theme](screenshots/t.png) |
+| Theme Switcher | ![Theme](images/t.png) |
 
 ---
 
