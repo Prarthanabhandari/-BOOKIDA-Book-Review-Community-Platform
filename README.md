@@ -554,7 +554,7 @@ Applied via **CSS variables on `:root`** — all components update instantly.
 
 | Page | Screenshot |
 |------|-----------|
-| Home — Hero + Live Stats | ![Home](screenshots/home.png) |
+| Home — Hero + Live Stats | ![Home](images/home(14).png) |
 ![Home](Screenshot 2026-04-24 132155.png)
 | Explore — 3-Column Layout | ![Explore](screenshots/explore.png) |
 | Write — ISBN Fetch + Preview | ![Write](screenshots/write.png) |
